@@ -10,7 +10,7 @@ Deploy VLESS server to heroku
 ## 镜像
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yamysghey/cheryl)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bradokyes/alina)
 
 ## ENV 设定
 
